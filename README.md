@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Noel and I'm a Java Developer 👋
+
+- 🔭 I’m currently working on an assurance company ...
+- 🌱 I’m currently learning Git ...
 
 <!--
 **NoelGaldamez/NoelGaldamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
